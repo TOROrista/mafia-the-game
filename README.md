@@ -7,7 +7,7 @@ Every game, a player is assigned a random role to play for a round where every g
 
 #### `Mechanics`
 
-The play starts of during the day, during which, a timer ticks down to signal the upcoming night. Each night, every player which has roles that can affect the gameplay (e.g MAFIA, Godfather, Doctor, etc.) will be __"woken up"__ and asked to their roles.
+A game is not allowed to start without having at least 7 players. The play starts of during the day, during which, a timer ticks down to signal the upcoming night. Each night, every player which has roles that can affect the gameplay (e.g MAFIA, Godfather, Doctor, etc.) will be __"woken up"__ and asked to their roles.
 
 When the night timer stops, the game will cycle again to the morning in which players will try to accuse who the MAFIA are. This is a game of deception and lying, wherein you must do all you can to win, whether you are a MAFIA member or a member of the townspeople.
 
