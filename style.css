@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0; 
+  font-family: 'Roboto', Tahoma, Geneva, Arial, sans-serif;
+  color: #212121;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ececec;
+  display: flex;
+}
+
+.centered { text-align: center; margin: auto; }
+.headline { font-family: 'Playfair Display'; font-size: 123px; }
+.subtitle { font-weight: 300; font-size: 36px; }
+.links, .links > * { font-weight: 100; font-size: 20px; color: #37474f; text-decoration: none; }
+
+.divider {
+  width: 240px;
+  height: 5px;
+  margin: 24px auto;
+  border-radius: 2px;
+  background-color: #f44336;
+}
+
+.margin-divider_24 { margin: 24px 0; }
+.margin-divider_36 { margin: 36px 0; }
