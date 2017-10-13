@@ -14,7 +14,9 @@ soon as possible.
 - Illustrator will be the main asset maker/editor
 - The size of each artboard will be 500px by 500px
 - For the rectangular grid tool, please refer to the settings below:
+
 ![Settings](https://res.cloudinary.com/francislorenz/image/upload/v1507900263/settings_rykrsv.png)
+
 - Save in `.PNG` and `.SVG`
 
 ### Commit Message Guidelines
