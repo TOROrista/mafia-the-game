@@ -11,6 +11,6 @@ A game is not allowed to start without having at least 7 players. The play start
 
 When the night timer stops, the game will cycle again to the morning in which players will try to accuse who the MAFIA are. This is a game of deception and lying, wherein you must do all you can to win, whether you are a MAFIA member or a member of the townspeople.
 
-For further imformation on the roles that are available for this web-game, please refer to the [ROLES file](./roles/ROLES.md)
+For further information on the roles that are available for this web-game, please refer to the [ROLES file](./roles/ROLES.md)
 
 For asset contributions, please switch to the `art-branch` and when you create a pull request, direct in to the art-branch and not the `master` branch. Happy contributing! :confetti_ball:
